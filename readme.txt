@@ -7,3 +7,5 @@ Creating a new branch is quick AND simple.
 PC dev
 mac dev branch.
 new dev
+don't log to dev
+don't log to dev2
